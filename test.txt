@@ -1,0 +1,3 @@
+hello, this is the first time learing git.
+git is a distributed version control system.
+
