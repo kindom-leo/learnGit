@@ -4,3 +4,4 @@ this is the third line.
 i'm the fourth line.
 over!
 programming is good!
+creating a new branch is quick AND simple!
